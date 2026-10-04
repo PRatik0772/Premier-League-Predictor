@@ -1,2 +1,0 @@
-- [Model comparison requirements](model-comparison.md) — show accuracy, F1, and precision for every supplied model, not just the selected model.
-- [GitHub authentication](github-authentication.md) — Git CLI credentials and the GitHub connection can have different authentication states.
